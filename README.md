@@ -1,4 +1,4 @@
-# CI-CD-pipeline-Lab
+# CI/CD-pipeline-Lab
 
 > Stage 1 : We will provision our own virtual data centre in AWS using Infrastructure as Code with the help of Terraform. Terraform is the most popular tool when it comes to IaC.
 
